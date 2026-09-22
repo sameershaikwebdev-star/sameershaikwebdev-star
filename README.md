@@ -96,7 +96,7 @@ Vasireddy Venkatadri Institute of Technology (VVIT)
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=sameershaikwebdev-star&show_icons=true&hide_border=true&theme=transparent"
+    src="[https://github-readme-stats.vercel.app](https://frontend-sandy-ten-80.vercel.app/)/api?username=sameershaikwebdev-star&show_icons=true&hide_border=true&theme=transparent"
     alt="Sameer's GitHub statistics"
     height="170"
   />
