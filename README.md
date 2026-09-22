@@ -92,23 +92,43 @@ Vasireddy Venkatadri Institute of Technology (VVIT)
 
 ---
 
-## 📊 GitHub Activity
+## 🚀 Live Projects
 
-<p align="center">
-  <img
-    src="[https://github-readme-stats.vercel.app](https://frontend-sandy-ten-80.vercel.app/)/api?username=sameershaikwebdev-star&show_icons=true&hide_border=true&theme=transparent"
-    alt="Sameer's GitHub statistics"
-    height="170"
-  />
+### 🌐 M3 Global Services
 
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=sameershaikwebdev-star&layout=compact&hide_border=true&theme=transparent"
-    alt="Sameer's top languages"
-    height="170"
-  />
-</p>
+Modern full-stack corporate website with a responsive interface and backend
+integration.
+
+🔗 **Live Demo:**  
+[https://frontend-sandy-ten-80.vercel.app/](https://frontend-sandy-ten-80.vercel.app/)
+
+**Tech:** Next.js · TypeScript · React · Spring Boot · MongoDB · Docker
 
 ---
+
+### 🏙️ CivicPulse
+
+AI-powered smart civic complaint management platform designed to connect
+citizens with government departments and improve complaint tracking and
+resolution.
+
+🔗 **Live Demo:**  
+[https://civic-pulse-nexus.vercel.app/](https://civic-pulse-nexus.vercel.app/)
+
+**Tech:** React · JavaScript · Spring Boot · REST API · AI
+
+---
+
+### 💻 Source Code
+
+- [M3 Global Services](https://github.com/sameershaikwebdev-star/M3-GlobalServices)
+- [CivicPulse](https://github.com/sameershaikwebdev-star/CivicPulse_Nexus)
+
+---
+
+<p align="center">
+  <b>🚀 Try the live projects above</b>
+</p>
 
 ## 🤝 Connect With Me
 
