@@ -115,7 +115,7 @@ resolution.
 🔗 **Live Demo:**  
 [https://civic-pulse-nexus.vercel.app/](https://civic-pulse-nexus.vercel.app/)
 
-**Tech:** React · JavaScript · Spring Boot · REST API · AI
+**Tech:** React · JavaScript · Spring Boot · REST API · AI  . MongoDB
 
 ---
 
