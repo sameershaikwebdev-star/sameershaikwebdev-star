@@ -100,7 +100,7 @@ Modern full-stack corporate website with a responsive interface and backend
 integration.
 
 🔗 **Live Demo:**  
-[https://frontend-sandy-ten-80.vercel.app/](https://frontend-sandy-ten-80.vercel.app/)
+[https://frontend-sandy-ten-80.vercel.app/](https://m3-global-services.vercel.app/)
 
 **Tech:** Next.js · TypeScript · React · Spring Boot · MongoDB · Docker
 
