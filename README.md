@@ -11,7 +11,7 @@ experiences.
 - 💻 Interested in Java, Python, JavaScript, React, Next.js, Spring Boot, and AI
 - 🎓 B.Tech Information Technology
 - 📍 India
-
+https://frontend-sandy-ten-80.vercel.app/
 ---
 
 ## 🛠️ Tech Stack
@@ -113,7 +113,7 @@ citizens with government departments and improve complaint tracking and
 resolution.
 
 🔗 **Live Demo:**  
-[https://civic-pulse-nexus.vercel.app/]([https://civic-pulse-nexus.vercel.app/](https://frontend-sandy-ten-80.vercel.app/))
+[https://frontend-sandy-ten-80.vercel.app/](https://frontend-sandy-ten-80.vercel.app/)
 
 **Tech:** React · JavaScript · Spring Boot · REST API · AI  . MongoDB
 
